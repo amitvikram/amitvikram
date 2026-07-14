@@ -1,8 +1,14 @@
 # Enterprise AI Portfolio Repository Blueprints
 
-This public collection contains ten portfolio-grade shell repositories covering enterprise AI engineering, machine learning, product architecture, evaluation, governance, and commercialization.
+This public collection contains portfolio-grade repositories and architecture shells covering enterprise AI engineering, agentic systems, machine learning, product architecture, evaluation, governance, and commercialization.
 
-Each case includes a business problem, target users, measurable outcomes, end-to-end workflow, AI and ML components, reference architecture, API contract, evaluation framework, production controls, and pilot plan. The full independent-repository package also includes runnable FastAPI shells, synthetic examples, tests, implementation documentation, and a one-command publisher.
+Each case includes a business problem, target users, measurable outcomes, end-to-end workflow, AI and ML components, reference architecture, evaluation framework, production controls, and a path from prototype to production.
+
+## Flagship agentic platform
+
+1. [Agentic Studio: Visual Enterprise Agent Design and Governance](agentic-studio/README.md)
+
+Agentic Studio is backed by a private TypeScript product implementation. The public page presents its visual agent studio, typed manifests, MCP tools, model routing, memory, human-in-the-loop controls, deployment policy, and enterprise governance architecture without exposing proprietary code.
 
 ## Recent AI and ML projects
 
@@ -23,4 +29,4 @@ These materials demonstrate solution thinking and engineering patterns without p
 
 ## Standalone repository package
 
-The complete package contains 122 files across the ten independent repository folders. Each folder is ready to initialize and publish as a separate public GitHub repository using the included `publish-all.sh` script from an authenticated GitHub CLI environment.
+The independent shell package contains runnable FastAPI contracts, synthetic examples, tests, architecture documentation, and a publisher script. Agentic Studio is intentionally handled separately because its implemented codebase remains private.
