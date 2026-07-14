@@ -86,7 +86,7 @@ The foundation model is an important component, but rarely the durable enterpris
 - Led at the intersection of product strategy, architecture, customer delivery, adoption, organizational change, and executive stakeholder management
 - Earlier career includes a decade of B2B sales and consulting experience across the United States, India, and Japan
 
-## Healthcare and other complex domains
+## Healthcare, Legal, Engineering and other complex domains
 
 The same architecture principles apply across healthcare, financial services, legal operations, technology operations, and commercial workflows. The domain changes, but the core design problem remains consistent:
 
