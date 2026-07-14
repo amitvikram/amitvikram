@@ -86,7 +86,7 @@ The foundation model is an important component, but rarely the durable enterpris
 - Led at the intersection of product strategy, architecture, customer delivery, adoption, organizational change, and executive stakeholder management
 - Earlier career includes a decade of B2B sales and consulting experience across the United States, India, and Japan
 
-## Healthcare, Legal, Engineering and other complex domains
+## Healthcare and other complex domains
 
 The same architecture principles apply across healthcare, financial services, legal operations, technology operations, and commercial workflows. The domain changes, but the core design problem remains consistent:
 
@@ -125,3 +125,20 @@ I am interested in leadership and advisory opportunities where AI engineering, p
 - **Location:** Princeton, New Jersey, United States
 
 <sub>Public repositories and demonstrations are intentionally designed to avoid customer data, protected information, confidential employer assets, production credentials, and proprietary implementation details.</sub>
+
+## Recent AI + ML Projects
+
+A comprehensive public-safe collection of recent enterprise AI and machine-learning work is available in **[Recent AI and ML repository blueprints](portfolio-repositories/README.md)**.
+
+| Use case | Core AI and ML pattern |
+|---|---|
+| **[Engineering RCA and Troubleshooting](portfolio-repositories/engineering-rca-ai/README.md)** | Graph-based log, code, deployment, and service correlation for evidence-driven root-cause analysis |
+| **[Legal Research Automation and RAG Optimization](portfolio-repositories/legal-research-rag-optimizer/README.md)** | Hybrid retrieval, reranking, model selection, citation verification, and legal knowledge graphs |
+| **[HCM Employee Onboarding Copilot](portfolio-repositories/employee-onboarding-copilot/README.md)** | Microsoft Teams assistant, permission-aware enterprise RAG, HR and IT workflow orchestration |
+| **[Commercial Operations AP: Legal Invoice Review](portfolio-repositories/legal-invoice-review-ai/README.md)** | Legal activity classification, billing rules, anomaly detection, explanations, and reviewer feedback |
+| **[Multimodal Search Platform](portfolio-repositories/multimodal-search-platform/README.md)** | CLIP-style contrastive embeddings, vector databases, and cross-modal retrieval |
+| **[Dynamic Pricing and Margin Optimization](portfolio-repositories/dynamic-pricing-margin-optimizer/README.md)** | Win-probability modeling, price response, constrained optimization, and approval policy |
+| **[Commercial Operations AR Agent](portfolio-repositories/accounts-receivable-ai-agent/README.md)** | Payment prediction, credit-risk scoring, next-best-action prioritization, and communication support |
+| **[Agentic Inquiry-to-Quote](portfolio-repositories/inquiry-to-quote-agent/README.md)** | CRM and ERP orchestration, document intelligence, item matching, pricing rules, and human review |
+| **[Demand Forecasting and Procurement Automation](portfolio-repositories/demand-forecasting-procurement-ai/README.md)** | Hierarchical probabilistic forecasting, inventory optimization, and procurement recommendations |
+| **[Marketing Product Literature Generation](portfolio-repositories/product-literature-generation-ai/README.md)** | Document intelligence, governed RAG, LLM content generation, image generation, and claim verification |
