@@ -18,8 +18,8 @@ I am the founder of **[Proxiom.ai](https://proxiom.ai)**, focused on enterprise 
 
 <table>
 <tr>
+<td width="25%" valign="top"><strong>DISCOVER</strong><br/><br/>Client discovery, executive demonstrations, solution architecture, pilot design, proposals, and value realization.</td>
 <td width="25%" valign="top"><strong>BUILD</strong><br/><br/>LLM applications, agents, RAG, knowledge graphs, rapid prototypes, workflow products, evaluation frameworks.</td>
-<td width="25%" valign="top"><strong>SELL</strong><br/><br/>Client discovery, executive demonstrations, solution architecture, pilot design, proposals, and value realization.</td>
 <td width="25%" valign="top"><strong>SCALE</strong><br/><br/>AI platforms, data foundations, engineering organizations, reusable architecture, governance, and delivery models.</td>
 <td width="25%" valign="top"><strong>OPERATE</strong><br/><br/>Security, observability, human oversight, adoption, managed services, reliability, and measurable outcomes.</td>
 </tr>
