@@ -105,7 +105,7 @@ Discover the decision and measurable outcome
         ↓
 Build a narrow, credible prototype
         ↓
-Validate with users and domain experts
+Validate with users and domain experts using FDE-Toolkit
         ↓
 Establish evaluation, security and human controls
         ↓
