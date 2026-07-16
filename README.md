@@ -91,7 +91,6 @@ The same architecture principles apply across healthcare, financial services, le
 
 > Combine trusted evidence, domain policy, enterprise data, specialized tools, model reasoning, and human judgment around a consequential business decision.
 
-For healthcare, representative patterns include prior authorization, claims-denial intelligence, clinical documentation support, patient reconciliation, contact-center assistance, quality operations, and governed workflow automation. Public demonstrations use synthetic or publicly available data only.
 
 ## Explore the portfolio
 
