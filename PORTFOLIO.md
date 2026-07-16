@@ -7,7 +7,6 @@ This portfolio highlights representative enterprise AI products, prototypes, and
 | Solution | Domain | Primary capability | Public artifact |
 |---|---|---|---|
 | Yooti | Software engineering | Governed agentic delivery | [Repository](https://github.com/amitvikram/yooti-cli) |
-| Synapse | Product development | Forward-deployed AI experimentation | [Repository](https://github.com/amitvikram/synapse) |
 | Proxiom Sootro | Technology operations | Incident intelligence and root-cause analysis | [Repository](https://github.com/amitvikram/proxiom-website) |
 | Proxiom AI | Enterprise operations | Reasoning and agent operating layer | [Repository](https://github.com/amitvikram/website-Proxiom.ai) |
 | Healthcare AI accelerators | Healthcare | Payer, provider, and health-tech workflows | Public-safe prototypes and blueprints in development |
@@ -64,51 +63,8 @@ Yooti can be positioned as a governed operating framework for enterprises adopti
 
 **Repository:** [github.com/amitvikram/yooti-cli](https://github.com/amitvikram/yooti-cli)
 
----
 
-## 2. Synapse
-
-### Forward-deployed AI product laboratory
-
-**The problem**
-
-Customer feedback moves through meetings, notes, tickets, product interpretation, engineering queues, and implementation. Context is lost at every handoff, and users often cannot validate whether their needs were understood until much later.
-
-**The solution**
-
-Synapse gives each tester an isolated application sandbox. The tester requests changes through text or voice, AI edits the application, persistent memory retains the interaction history, and approved experiments become GitHub pull requests.
-
-```mermaid
-flowchart LR
-    A[Customer or tester] --> B[Isolated sandbox]
-    B --> C[Text or voice request]
-    C --> D[AI-generated product change]
-    D --> E[Live preview and iteration]
-    E --> F[Persistent change memory]
-    F --> G{Product owner review}
-    G -->|Approved| H[GitHub pull request]
-    G -->|Revise| C
-```
-
-**What it demonstrates**
-
-- Forward-deployed engineering
-- Customer-in-the-loop product development
-- Isolated execution environments
-- Natural-language software modification
-- Persistent context and product memory
-- GitHub branch, commit, and pull-request automation
-- Human approval before code enters the engineering workflow
-
-**Commercial relevance**
-
-Synapse provides a model for working directly with enterprise clients to convert workflow knowledge and user feedback into rapid, testable product experiments. It shortens the path from discovery to demonstrated value while keeping engineering review intact.
-
-**Repository:** [github.com/amitvikram/synapse](https://github.com/amitvikram/synapse)
-
----
-
-## 3. Proxiom Sootro
+## 2. Proxiom Sootro
 
 ### AI-powered incident intelligence and troubleshooting
 
@@ -162,7 +118,7 @@ The same reasoning pattern can extend beyond software incidents into claims deni
 
 ---
 
-## 4. Proxiom AI
+## 3. Proxiom AI
 
 ### Enterprise reasoning and agent operating layer
 
@@ -209,7 +165,7 @@ As model prices fall, differentiation moves upward from tokens to products, work
 
 ---
 
-## 5. Healthcare AI accelerators
+## 4. Healthcare AI accelerators
 
 ### Payer, provider, and health-tech solution patterns
 
@@ -262,7 +218,7 @@ Healthcare workflows require domain evidence, policy interpretation, structured 
 
 ---
 
-## 6. Legal operations AI
+## 5. Legal operations AI
 
 ### Experience pattern
 
@@ -296,7 +252,7 @@ Outcome tracking and continuous learning
 
 ---
 
-## 7. Commercial and GTM AI
+## 6. Commercial and GTM AI
 
 ### Seller and customer intelligence
 
