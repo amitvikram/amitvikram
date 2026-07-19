@@ -30,6 +30,7 @@ I am the founder of **[Proxiom.ai](https://proxiom.ai)**, focused on enterprise 
 | Project | What it demonstrates | Why it matters |
 |---|---|---|
 | **[Agentic Studio](portfolio-repositories/agentic-studio/README.md)** | Visual low-code design of enterprise agents using typed manifests, MCP tools, model routing, memory, human approvals, deployment policy, and RBAC | Shows how agent experiments can become explicit, inspectable, testable, permissioned, and deployable enterprise systems |
+| **[Persona Recommendation Platform](portfolio-repositories/persona-recommendation-platform/README.md)** | Multi-domain semantic personas, controlled exploration, explainable ranking, asynchronous refresh, and feedback-driven learning | Demonstrates a reusable recommendation control plane across GTM, commerce, customer success, learning, publishing, wealth, and healthcare |
 | **[FDE-Toolkit](https://github.com/amitvikram/FDE-toolkit-new)** | Forward-deployed AI product laboratory with isolated sandboxes, voice and text interaction, persistent memory, live application changes, and GitHub pull requests | Connects customer discovery directly to validated product experiments and engineering artifacts |
 | **[Proxiom Sootro](https://github.com/amitvikram/proxiom-website)** | AI-powered incident intelligence combining service graphs, hybrid retrieval, operational evidence, reasoning workflows, and human review | Demonstrates a domain reasoning system for root-cause analysis, remediation support, and operational learning |
 
@@ -63,6 +64,7 @@ The foundation model is an important component, but rarely the durable enterpris
 <p>
   <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Reasoning%20Systems-111827?style=flat-square" alt="Reasoning Systems" />
+  <img src="https://img.shields.io/badge/Recommendation%20Systems-111827?style=flat-square" alt="Recommendation Systems" />
   <img src="https://img.shields.io/badge/RAG%20%26%20Enterprise%20Search-111827?style=flat-square" alt="RAG and Enterprise Search" />
   <img src="https://img.shields.io/badge/Knowledge%20Graphs-111827?style=flat-square" alt="Knowledge Graphs" />
   <img src="https://img.shields.io/badge/AI%20Evaluation-111827?style=flat-square" alt="AI Evaluation" />
@@ -130,6 +132,7 @@ A comprehensive public-safe collection of recent enterprise AI and machine-learn
 
 | Use case | Core AI and ML pattern |
 |---|---|
+| **[Persona-Based Recommendation Platform](portfolio-repositories/persona-recommendation-platform/README.md)** | Semantic event clustering, natural-language personas, exploration and exploitation policies, explainable ranking, feedback and asynchronous refresh |
 | **[Engineering RCA and Troubleshooting](portfolio-repositories/engineering-rca-ai/README.md)** | Graph-based log, code, deployment, and service correlation for evidence-driven root-cause analysis |
 | **[Legal Research Automation and RAG Optimization](portfolio-repositories/legal-research-rag-optimizer/README.md)** | Hybrid retrieval, reranking, model selection, citation verification, and legal knowledge graphs |
 | **[HCM Employee Onboarding Copilot](portfolio-repositories/employee-onboarding-copilot/README.md)** | Microsoft Teams assistant, permission-aware enterprise RAG, HR and IT workflow orchestration |
