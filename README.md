@@ -31,6 +31,7 @@ I am the founder of **[Proxiom.ai](https://proxiom.ai)**, focused on enterprise 
 |---|---|---|
 | **[Agentic Studio](portfolio-repositories/agentic-studio/README.md)** | Visual low-code design of enterprise agents using typed manifests, MCP tools, model routing, memory, human approvals, deployment policy, and RBAC | Shows how agent experiments can become explicit, inspectable, testable, permissioned, and deployable enterprise systems |
 | **[LLM-based Recommendation Platform](portfolio-repositories/persona-recommendation-platform/README.md)** | Multi-domain semantic personas, controlled exploration, explainable ranking, asynchronous refresh, and feedback-driven learning | Demonstrates a reusable recommendation control plane across GTM, commerce, customer success, learning, publishing, wealth, and healthcare |
+| **[Seller Activity Planner](portfolio-repositories/seller-activity-planner/README.md)** | Opportunity urgency, mindshare cadence, external event triggers, semantic account personas, and capacity-aware next-best actions | Shows how AI can direct limited seller attention toward the accounts and actions most likely to matter now |
 | **[HCP Targeting and Next-Best Action](portfolio-repositories/hcp-targeting-nba/README.md)** | Territory prioritization, semantic HCP personas, approved action ranking, consent and frequency controls, and medical and safety routing | Shows how a general recommendation framework becomes a governed commercial AI product for life sciences field teams |
 | **[FDE-Toolkit](https://github.com/amitvikram/FDE-toolkit-new)** | Forward-deployed AI product laboratory with isolated sandboxes, voice and text interaction, persistent memory, live application changes, and GitHub pull requests | Connects customer discovery directly to validated product experiments and engineering artifacts |
 | **[Proxiom Sootro](https://github.com/amitvikram/proxiom-website)** | AI-powered incident intelligence combining service graphs, hybrid retrieval, operational evidence, reasoning workflows, and human review | Demonstrates a domain reasoning system for root-cause analysis, remediation support, and operational learning |
@@ -66,6 +67,7 @@ The foundation model is an important component, but rarely the durable enterpris
   <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Reasoning%20Systems-111827?style=flat-square" alt="Reasoning Systems" />
   <img src="https://img.shields.io/badge/Recommendation%20Systems-111827?style=flat-square" alt="Recommendation Systems" />
+  <img src="https://img.shields.io/badge/GTM%20%26%20Revenue%20AI-111827?style=flat-square" alt="GTM and Revenue AI" />
   <img src="https://img.shields.io/badge/Life%20Sciences%20Commercial%20AI-111827?style=flat-square" alt="Life Sciences Commercial AI" />
   <img src="https://img.shields.io/badge/RAG%20%26%20Enterprise%20Search-111827?style=flat-square" alt="RAG and Enterprise Search" />
   <img src="https://img.shields.io/badge/Knowledge%20Graphs-111827?style=flat-square" alt="Knowledge Graphs" />
@@ -134,6 +136,7 @@ A comprehensive public-safe collection of recent enterprise AI and machine-learn
 
 | Use case | Core AI and ML pattern |
 |---|---|
+| **[Seller Activity Planner](portfolio-repositories/seller-activity-planner/README.md)** | Account and opportunity scoring, mindshare cadence, event-triggered actions, semantic personas, capacity-aware planning, evidence and seller feedback |
 | **[HCP Targeting and Next-Best Action](portfolio-repositories/hcp-targeting-nba/README.md)** | Aggregated HCP opportunity scoring, semantic personas, approved action ranking, consent and frequency policy, explainability, Medical referral, and safety escalation |
 | **[Persona-Based Recommendation Platform](portfolio-repositories/persona-recommendation-platform/README.md)** | Semantic event clustering, natural-language personas, exploration and exploitation policies, explainable ranking, feedback and asynchronous refresh |
 | **[Engineering RCA and Troubleshooting](portfolio-repositories/engineering-rca-ai/README.md)** | Graph-based log, code, deployment, and service correlation for evidence-driven root-cause analysis |
