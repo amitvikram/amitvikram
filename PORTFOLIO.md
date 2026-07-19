@@ -6,7 +6,6 @@ This portfolio highlights representative enterprise AI products, prototypes, and
 
 | Solution | Domain | Primary capability | Public artifact |
 |---|---|---|---|
-| Yooti | Software engineering | Governed agentic delivery | [Repository](https://github.com/amitvikram/yooti-cli) |
 | Proxiom Sootro | Technology operations | Incident intelligence and root-cause analysis | [Repository](https://github.com/amitvikram/proxiom-website) |
 | Proxiom AI | Enterprise operations | Reasoning and agent operating layer | [Repository](https://github.com/amitvikram/website-Proxiom.ai) |
 | Healthcare AI accelerators | Healthcare | Payer, provider, and health-tech workflows | Public-safe prototypes and blueprints in development |
@@ -15,56 +14,9 @@ This portfolio highlights representative enterprise AI products, prototypes, and
 
 ---
 
-## 1. Yooti
-
-### Governed agentic software delivery
-
-**The problem**
-
-Coding agents can generate software quickly, but enterprise teams still need clear specifications, architectural control, test evidence, security checks, review, and release accountability. Unstructured agent use can create speed without control.
-
-**The solution**
-
-Yooti combines specification-driven development with an agile delivery model that engineering teams already understand. Agents execute work between explicit human decision gates.
-
-```mermaid
-flowchart LR
-    A[Approved story] --> B[Agent creates specification and plan]
-    B --> C{Architect approval}
-    C -->|Approved| D[Agent writes tests and implementation]
-    D --> E[Automated evidence package]
-    E --> F{Developer and QA review}
-    F -->|Approved| G[Staging and smoke tests]
-    G --> H{Release approval}
-    H -->|Approved| I[Production]
-```
-
-**Five human gates**
-
-1. Product manager confirms that the work item is ready.
-2. Architect approves the implementation plan and allowed scope.
-3. Developer reviews the pull request and generated code.
-4. QA reviews the evidence package and quality results.
-5. Release manager approves production deployment.
-
-**What it demonstrates**
-
-- Agentic software engineering
-- Specification-driven development
-- Human accountability around autonomous execution
-- Test-first implementation and evidence generation
-- CI/CD integration and GitHub workflows
-- Security and quality constitutions for coding agents
-- Brownfield adoption inside existing codebases
-
-**Commercial relevance**
-
-Yooti can be positioned as a governed operating framework for enterprises adopting coding agents across engineering teams. The opportunity is not only developer productivity. It is the ability to use agents while retaining architecture, quality, security, and release control.
-
-**Repository:** [github.com/amitvikram/yooti-cli](https://github.com/amitvikram/yooti-cli)
 
 
-## 2. Proxiom Sootro
+## 1. Proxiom Sootro
 
 ### AI-powered incident intelligence and troubleshooting
 
@@ -118,7 +70,7 @@ The same reasoning pattern can extend beyond software incidents into claims deni
 
 ---
 
-## 3. Proxiom AI
+## 2. Proxiom AI
 
 ### Enterprise reasoning and agent operating layer
 
@@ -165,7 +117,7 @@ As model prices fall, differentiation moves upward from tokens to products, work
 
 ---
 
-## 4. Healthcare AI accelerators
+## 3. Healthcare AI accelerators
 
 ### Payer, provider, and health-tech solution patterns
 
@@ -218,7 +170,7 @@ Healthcare workflows require domain evidence, policy interpretation, structured 
 
 ---
 
-## 5. Legal operations AI
+## 4. Legal operations AI
 
 ### Experience pattern
 
@@ -252,7 +204,7 @@ Outcome tracking and continuous learning
 
 ---
 
-## 6. Commercial and GTM AI
+## 5. Commercial and GTM AI
 
 ### Seller and customer intelligence
 
