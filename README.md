@@ -30,6 +30,7 @@ I am the founder of **[Proxiom.ai](https://proxiom.ai)**, focused on enterprise 
 | Project | What it demonstrates | Why it matters |
 |---|---|---|
 | **[FDE-Toolkit](https://github.com/amitvikram/FDE-toolkit-new)** | Forward-deployed AI product laboratory with isolated sandboxes, voice and text interaction, persistent memory, live application changes, and GitHub pull requests | Connects customer discovery directly to validated product experiments and engineering artifacts |
+| **[Options Income and Portfolio Risk System](portfolio-repositories/options-income-system/README.md)** | Multi-broker portfolio aggregation, Greeks, premium-goal tracking, market-regime scanning, strategy construction, diversification controls, and guarded execution | Demonstrates a governed decision and execution system for consistent options income rather than isolated trade generation |
 | **[Agentic Studio](portfolio-repositories/agentic-studio/README.md)** | Visual low-code design of enterprise agents using typed manifests, MCP tools, model routing, memory, human approvals, deployment policy, and RBAC | Shows how agent experiments can become explicit, inspectable, testable, permissioned, and deployable enterprise systems |
 | **[LLM-based Recommendation Platform](portfolio-repositories/persona-recommendation-platform/README.md)** | Multi-domain semantic personas, controlled exploration, explainable ranking, asynchronous refresh, and feedback-driven learning | Demonstrates a reusable recommendation control plane across GTM, commerce, customer success, learning, publishing, wealth, and healthcare |
 | **[Seller Activity Planner](portfolio-repositories/seller-activity-planner/README.md)** | Opportunity urgency, mindshare cadence, external event triggers, semantic account personas, and capacity-aware next-best actions | Shows how AI can direct limited seller attention toward the accounts and actions most likely to matter now |
@@ -67,6 +68,7 @@ The foundation model is an important component, but rarely the durable enterpris
   <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Reasoning%20Systems-111827?style=flat-square" alt="Reasoning Systems" />
   <img src="https://img.shields.io/badge/Recommendation%20Systems-111827?style=flat-square" alt="Recommendation Systems" />
+  <img src="https://img.shields.io/badge/Financial%20AI%20%26%20Trading%20Systems-111827?style=flat-square" alt="Financial AI and Trading Systems" />
   <img src="https://img.shields.io/badge/GTM%20%26%20Revenue%20AI-111827?style=flat-square" alt="GTM and Revenue AI" />
   <img src="https://img.shields.io/badge/Life%20Sciences%20Commercial%20AI-111827?style=flat-square" alt="Life Sciences Commercial AI" />
   <img src="https://img.shields.io/badge/RAG%20%26%20Enterprise%20Search-111827?style=flat-square" alt="RAG and Enterprise Search" />
@@ -102,6 +104,7 @@ The same architecture principles apply across healthcare, financial services, le
 
 - **[Product and solution portfolio](PORTFOLIO.md)**, deeper case studies across agentic delivery, forward-deployed engineering, incident intelligence, healthcare, legal operations, and GTM AI
 - **[Enterprise AI systems playbook](AI-SYSTEMS-PLAYBOOK.md)**, my approach to discovery, architecture, evaluation, governance, pilots, productionization, and value realization
+- **[Options income and portfolio risk system](portfolio-repositories/options-income-system/README.md)**, multi-broker portfolio intelligence, risk-constrained strategy generation, and guarded trade execution
 - **[Proxiom.ai](https://proxiom.ai)**, enterprise AI reasoning and operations platform work
 
 ## How I approach client engagements
@@ -136,6 +139,7 @@ A comprehensive public-safe collection of recent enterprise AI and machine-learn
 
 | Use case | Core AI and ML pattern |
 |---|---|
+| **[Options Income and Portfolio Risk System](portfolio-repositories/options-income-system/README.md)** | Broker integration, option-chain analytics, delta and theta tracking, market-regime classification, risk-constrained strategy construction, diversification controls, and guarded execution |
 | **[Seller Activity Planner](portfolio-repositories/seller-activity-planner/README.md)** | Account and opportunity scoring, mindshare cadence, event-triggered actions, semantic personas, capacity-aware planning, evidence and seller feedback |
 | **[HCP Targeting and Next-Best Action](portfolio-repositories/hcp-targeting-nba/README.md)** | Aggregated HCP opportunity scoring, semantic personas, approved action ranking, consent and frequency policy, explainability, Medical referral, and safety escalation |
 | **[Persona-Based Recommendation Platform](portfolio-repositories/persona-recommendation-platform/README.md)** | Semantic event clustering, natural-language personas, exploration and exploitation policies, explainable ranking, feedback and asynchronous refresh |
